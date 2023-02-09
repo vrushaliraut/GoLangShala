@@ -11,8 +11,8 @@ func structsDemo() {
 	fmt.Println("Declare struct ::", ninja{name: "Riyanshi", level: 1})
 	fmt.Println("Declare struct ::", ninja{name: "Abhi", level: 2})
 
-	fmt.Println("Declare struct ::name ", ninja{
+	//default values to struct get assigned
+	fmt.Println("Declare struct : :name ", ninja{
 		name: "john",
 	})
-
 }

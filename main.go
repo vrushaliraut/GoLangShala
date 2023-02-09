@@ -20,4 +20,25 @@ func main() {
 
 	fmt.Println("**********  Maps *************")
 	mapsDemo()
+
+	fmt.Println("****** Struct Demo ********")
+	structsDemo()
+
+	fmt.Println("**** Ranges ******")
+	ranges()
+
+	fmt.Println("**** Pointers ******")
+	pointers()
+
+	fmt.Println("****** Interfaces **********")
+	interfaces()
+
+	fmt.Println("***** Functions *****")
+	functionsDemo()
+
+	fmt.Println("*** GoRoutines *****")
+	goRoutineDemo()
+
+	fmt.Println("*** Channel ***** ")
+	channelsDemo()
 }
