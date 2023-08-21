@@ -16,5 +16,6 @@ func builtintypes() {
 	var str string = "ABCD"
 	r_array := []rune(str)
 	fmt.Println("----BuiltIn types-----")
+
 	fmt.Printf("Array of rune values for A, B, C and D: %U\n", r_array)
 }

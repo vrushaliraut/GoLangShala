@@ -1,9 +1,7 @@
 package main
 
-import "fmt"
-
 func main() {
-	builtintypes()
+	/*builtintypes()
 
 	variables()
 
@@ -41,4 +39,8 @@ func main() {
 
 	fmt.Println("*** Channel ***** ")
 	channelsDemo()
+
+	*/
+
+	feature_list()
 }
