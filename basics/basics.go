@@ -1,7 +1,9 @@
 package main
 
+import "fmt"
+
 func main() {
-	/*builtintypes()
+	builtintypes()
 
 	variables()
 
@@ -35,12 +37,8 @@ func main() {
 	functionsDemo()
 
 	fmt.Println("*** GoRoutines *****")
-	goRoutineDemo()
+	go_routine_demo()
 
 	fmt.Println("*** Channel ***** ")
 	channelsDemo()
-
-	*/
-
-	feature_list()
 }
