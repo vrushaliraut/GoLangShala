@@ -19,6 +19,8 @@ func main() {
 	//optionals
 	explore_different_optionals()
 
+	//check map key efficiently
+	check_map_key()
 }
 
 func func_multiline() {
